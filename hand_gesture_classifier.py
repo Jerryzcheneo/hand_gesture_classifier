@@ -42,7 +42,7 @@ from aiy.vision.inference import ImageInference
 from aiy.vision.inference import ModelDescriptor
 from gpiozero import Button
 from aiy.pins import BUTTON_GPIO_PIN
-from aiy.vision.leds import Leds
+from aiy.leds import Leds
 from gpiozero import LED
 from aiy.pins import PIN_A
 from aiy.pins import PIN_B
